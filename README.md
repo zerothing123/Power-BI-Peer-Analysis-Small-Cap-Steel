@@ -51,7 +51,7 @@ RETURN IF(ISBLANK(Prev), BLANK(), DIVIDE([Debt]-Prev, Prev))
 - Company slicer controlling all visuals
 
 ## Dashboard preview 
-{scp.png}
+![Dashboard Preview](scp.png)
 
 ## Key Insights
 - Gallantt Ispat shows strong revenue growth  
